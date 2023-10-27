@@ -1,7 +1,7 @@
 
 ![natterstefan](https://programaenlinea.net/wp-content/uploads/2018/12/lenguajes-de-programacion-1.png)
 <h1 align="center">Hi 👋, I'm Byron Ramirez</h1>
-<h3 align="center">I am a passionate systems engineering student from Ecuador, where I will show my projects carried out during my student life and can help others with my projects or concerns.</h3>
+<h3 align="center">Here you will find projects carried out during my student career and personal ones carried out as hobbies. For the purpose of educational help.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byrondakfox&label=Profile%20views&color=0e75b6&style=flat" alt="byrondakfox" /> </p>
 
