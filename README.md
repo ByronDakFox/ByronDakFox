@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/branubis95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="branubis95" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/byron-miguel-ramirez-nastacuas-44072a177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byron-miguel-ramirez-nastacuas" height="30" width="40" /></a>
-<a href="https://instagram.com/miguel_bramirez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguel_bramirez_" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@mr..linux" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/382/original/tiktok-circle-icon-for-web-design-free-png.png" alt="branubis95" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/byronramirez95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byron-miguel-ramirez-nastacuas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codedarkrm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguel_bramirez_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC--kwKnqxIYBOYD97hWQDQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="byron ramirez" height="30" width="40" /></a>
 </p>
 
